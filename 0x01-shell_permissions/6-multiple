@@ -1,6 +1,0 @@
-#!/bin/bash
-chmod  permissions
-#!/bin/bash
-chmod  permissions
-#!/bin/bash
-chmod go+x,u+r permissions
