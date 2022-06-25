@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school hello
+mydir my_dir; chmod751 my_dir
